@@ -1,21 +1,17 @@
-# Skeleton2D Demo
+# Demonstração Skeleton2D
 
-This demo shows how to create a rigged and animated character in 2D using
-Godot's Skeleton2D node. There are several movement-related animations and
-there is a simple character controller that controls the animations.
+Esta demonstração mostra como criar um personagem rigado e animado em 2D usando o nó Skeleton2D do Godot. Existem várias animações relacionadas ao movimento e um controlador de personagem simples que controla as animações.
 
-Language: GDScript
+**Linguagem:** GDScript  
+**Renderizador:** Compatibilidade
 
-Renderer: Compatibility
+Confira esta demonstração na biblioteca de assets: [Biblioteca de Assets do Godot](https://godotengine.org/asset-library/asset/1027)
 
-Check out this demo on the asset library: https://godotengine.org/asset-library/asset/1027
+## Licenças
 
-## Licenses
+Personagem GBot Copyright &copy; circa 2020 Andreas Esau, Licença MIT.  
+Rigging e animação iniciais Copyright &copy; 2020 RustyStriker, Licença MIT.
 
-GBot character Copyright &copy; circa 2020 Andreas Esau, MIT License.
-
-Initial rigging and animating Copyright &copy; 2020 RustyStriker, MIT License.
-
-## Screenshots
+## Capturas de Tela
 
 ![Screenshot](screenshots/screenshot.png)
